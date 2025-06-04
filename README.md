@@ -4,6 +4,11 @@ This repository contains a **Multinomial Naive Bayes** based SMS spam detection 
 
 ---
 
+## 🧠 Visual Overview
+
+![SMS Spam Detection - Model Visualization](model-visual.png)
+
+
 ## Model Overview
 
 - **Model Type:** Multinomial Naive Bayes  
